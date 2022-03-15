@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @datng87
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Data Analytics
-- 💞️ I’m looking to collaborate on Data Analytics
+- 💞️ I’m looking to collaborate on Data Analytics Projects
 - 📫 How to reach me dat.q.nguyen87@gmail.com
 
 <!---
