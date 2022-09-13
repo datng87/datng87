@@ -1,4 +1,5 @@
 ### Hi there 👋 I'm Dat
+**An Active Data Analyst | #keepLearning**
 
 <!--
 **datng87/datng87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
